@@ -3,7 +3,7 @@ package school.mjc.stage0.conditions.finalTask;
 import school.mjc.stage0.base.BaseIOTest;
 import org.junit.jupiter.api.Test;
 
-class CoordinatePaneTest extends BaseIOTest {
+class oordinatePaneTest extends BaseIOTest {
 
     @Test
     void printQuadrantFirstWhenXYPositive() {
